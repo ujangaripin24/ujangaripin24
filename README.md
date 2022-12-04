@@ -2,4 +2,9 @@
 - :computer: <b>Kuli Coding</b>
 - :coffee: Don't Forget To Drink Coffee
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&layout=compact&theme=dark)
+<p align="left">
+<a href="https://github.com/rioadi14">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ujangaripin24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujangaripin24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
