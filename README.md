@@ -10,3 +10,5 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujangaripin24&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+
+<hr/>
