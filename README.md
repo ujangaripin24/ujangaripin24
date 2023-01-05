@@ -14,6 +14,6 @@
 <hr/>
 <p align="center">
   <a href="https://github.com/ujangaripin24">
-    ![Visitor Count](https://profile-counter.glitch.me/ujangaripin24/count.svg)
+    <h3>wkwk</h3>
   </a>
 </p>
