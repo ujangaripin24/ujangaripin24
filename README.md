@@ -12,8 +12,3 @@
 </p>
 
 <hr/>
-<p align="center">
-  <a href="https://github.com/ujangaripin24">
-    <h3>wkwk</h3>
-  </a>
-</p>
