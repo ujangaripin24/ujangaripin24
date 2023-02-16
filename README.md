@@ -10,7 +10,7 @@
 </a>
 </p>
 <hr/>
-:robot: Teknologi Digunakan :
+:robot: Teknologi Yang Digunakan :robot:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="30" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
