@@ -2,7 +2,6 @@
 - :computer: <b>Kuli Coding</b>
 - :coffee: Don't Forget To Drink Coffee
 
-## :speech_balloon: My Stats :
 <hr/>
 <p align="center">
 <a href="https://github.com/ujangaripin24">
