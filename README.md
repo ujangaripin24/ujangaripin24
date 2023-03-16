@@ -4,7 +4,7 @@
 
 <hr/>
 <h3>:chart_with_upwards_trend: Github Stats :chart_with_upwards_trend:</h3>
-<p align="center">
+<p align="left">
 <a href="https://github.com/ujangaripin24">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujangaripin24&layout=compact&langs_count=8&theme=tokyonight"/>
