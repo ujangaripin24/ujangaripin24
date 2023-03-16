@@ -3,6 +3,7 @@
 - :coffee: Don't Forget To Drink Coffee
 
 <hr/>
+<h3>:chart_with_upwards_trend: Github Stats</h3>
 <p align="center">
 <a href="https://github.com/ujangaripin24">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true"/>
@@ -10,7 +11,7 @@
 </a>
 </p>
 <hr/>
-:robot: Teknologi Yang Digunakan :robot:
+<h3>:robot: Stacks :robot:</h3>
 <p align="left">
 <img title="Angular JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="30" style="vertical-align:top; margin:4px">
 <img title="Vue JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
