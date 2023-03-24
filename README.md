@@ -21,6 +21,7 @@
 <img title="Bulma" src="https://img.stackshare.io/service/5204/bulma-logo.png" alt="css" height="30" style="vertical-align:top; margin:4px">
 <img title="Leaflet JS" src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" alt="css" height="30" style="vertical-align:top; margin:4px">
 <img title="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="css" height="30" style="vertical-align:top; margin:4px">
+<img title="Ionic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png" alt="css" height="30" style="vertical-align:top; margin:4px">
   
 <img title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="30" style="vertical-align:top; margin:4px">
 <img title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
