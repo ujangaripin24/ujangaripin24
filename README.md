@@ -31,3 +31,11 @@
 <img title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="30" style="vertical-align:top; margin:4px">
 <img title="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="30" style="vertical-align:top; margin:4px">
 </p>
+<hr/>
+<p>
+<h3>:trophy: GitHub Trophies :trophy:</h3>
+  
+![](https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+</p>
+<hr/>
