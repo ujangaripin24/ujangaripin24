@@ -1,4 +1,6 @@
-- 👋 Hai, Saya @Ujang Aripin
+<h3>:wave: Hello There :wave:</h3>
+
+- :cowboy_hat_face: Saya @Ujang Aripin
 - :computer: <b>Kuli Coding</b>
 - :coffee: Don't Forget To Drink Coffee
 
@@ -11,6 +13,7 @@
 </a>
 </p>
 <hr/>
+
 <h3>:robot: Stacks :robot:</h3>
 <p align="left">
 <img title="Angular JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="30" style="vertical-align:top; margin:4px">
