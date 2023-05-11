@@ -1,6 +1,6 @@
 <h3>:wave: Hello There :wave:</h3>
 
-- :cowboy_hat_face: Saya @Ujang Aripin
+- :cowboy_hat_face: Saya Adalah @Ujang Aripin
 - :computer: <b>Kuli Coding</b>
 - :coffee: Don't Forget To Drink Coffee
 
