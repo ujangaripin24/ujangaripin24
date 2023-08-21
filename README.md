@@ -36,7 +36,7 @@
 <p>
 <h3>:trophy: GitHub Trophies :trophy:</h3>
   
-![](https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=onedark&title=Stars,Followers,Commit,Issue,Repositories)](https://github.com/ujangaripin24/github-profile-trophy)
 
 </p>
 <hr/>
