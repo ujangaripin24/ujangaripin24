@@ -16,7 +16,6 @@
 
 <h3>:robot: Stacks :robot:</h3>
 <p align="left">
-<img title="Angular JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="30" style="vertical-align:top; margin:4px">
 <img title="Vue JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
 <img title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="30" style="vertical-align:top; margin:4px">
 <img title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="30" style="vertical-align:top; margin:4px">
