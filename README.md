@@ -17,19 +17,17 @@
 <h3>:robot: Stacks :robot:</h3>
 <p align="left">
 <img title="Vue JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
-<img title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="30" style="vertical-align:top; margin:4px">
-<img title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="30" style="vertical-align:top; margin:4px">
-<img title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="30" style="vertical-align:top; margin:4px">
-  
-<img title="Map Box" src="https://sourceforge.net/articles/wp-content/uploads/2018/09/mapbox-logo.png" alt="bootstrap" height="30" style="vertical-align:top; margin:4px">
-<img title="Flutter" src="https://www.svgrepo.com/show/353751/flutter.svg" alt="bootstrap" height="30" style="vertical-align:top; margin:4px">
-<img title="Bulma" src="https://img.stackshare.io/service/5204/bulma-logo.png" alt="css" height="30" style="vertical-align:top; margin:4px">
-<img title="Leaflet JS" src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" alt="css" height="30" style="vertical-align:top; margin:4px">
-  
-<img title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="30" style="vertical-align:top; margin:4px">
-<img title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
+<img title="React JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
+<img title="Next JS" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="vue" height="30" style="vertical-align:top; margin:4px">  
+<img title="Codeigniter" src="https://www.britefish.net/wp-content/uploads/2019/06/logo-codeigniter.png" alt="Codeignier" height="30" style="vertical-align:top; margin:4px">
+<img title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LaravelLogo.png/1200px-LaravelLogo.png" alt="Laravel" height="30" style="vertical-align:top; margin:4px">
 <img title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="30" style="vertical-align:top; margin:4px">
-<img title="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="30" style="vertical-align:top; margin:4px">
+<img title="Map Box" src="https://sourceforge.net/articles/wp-content/uploads/2018/09/mapbox-logo.png" alt="bootstrap" height="30" style="vertical-align:top; margin:4px">
+<img title="Leaflet JS" src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" alt="css" height="30" style="vertical-align:top; margin:4px">
+<img title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="30" style="vertical-align:top; margin:4px">
+<img title="Bulma" src="https://img.stackshare.io/service/5204/bulma-logo.png" alt="css" height="30" style="vertical-align:top; margin:4px">
+<img title="Flutter" src="https://www.svgrepo.com/show/353751/flutter.svg" alt="bootstrap" height="30" style="vertical-align:top; margin:4px">
+<img title="React-Native" src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="React-Native" height="30" style="vertical-align:top; margin:4px">
 </p>
 <hr/>
 <p>
