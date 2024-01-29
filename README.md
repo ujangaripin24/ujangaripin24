@@ -18,7 +18,8 @@
 <p align="left">
 <img title="Vue JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
 <img title="React JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
-<img title="Next JS" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="vue" height="30" style="vertical-align:top; margin:4px">  
+<img title="Next JS" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
+<img title="Angular" src="https://www.wizcase.com/wp-content/uploads/2022/08/Angular-logo.png" alt="vue" height="30" style="vertical-align:top; margin:4px">
 <img title="Codeigniter" src="https://www.britefish.net/wp-content/uploads/2019/06/logo-codeigniter.png" alt="Codeignier" height="30" style="vertical-align:top; margin:4px">
 <img title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LaravelLogo.png/1200px-LaravelLogo.png" alt="Laravel" height="30" style="vertical-align:top; margin:4px">
 <img title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="30" style="vertical-align:top; margin:4px">
