@@ -22,9 +22,6 @@
 <img title="Next JS" src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" alt="vue" height="20" style="vertical-align:top; margin:4px">
 <img title="Leaflet JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/2560px-Leaflet_logo.svg.png" alt="css" height="20" style="vertical-align:top; margin:4px">
 <img title="Map Box" src="https://sourceforge.net/articles/wp-content/uploads/2018/09/mapbox-logo.png" alt="bootstrap" height="20" style="vertical-align:top; margin:4px">
-<img title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="20" style="vertical-align:top; margin:4px">
-<img title="Bulma" src="https://img.stackshare.io/service/5204/bulma-logo.png" alt="Bulma" height="20" style="vertical-align:top; margin:4px">
-<img title="Material UI" src="https://mui.com/static/logo.png" alt="Material UI" height="20" style="vertical-align:top; margin:4px">
 <img title="Flutter" src="https://www.svgrepo.com/show/353751/flutter.svg" alt="Flutter" height="20" style="vertical-align:top; margin:4px">
 <img title="React-Native" src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="React-Native" height="20" style="vertical-align:top; margin:4px">
 <img title="Ionic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" alt="Ionic" height="20" style="vertical-align:top; margin:4px">
