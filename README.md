@@ -27,6 +27,8 @@
 <img title="Ionic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" alt="Ionic" height="20" style="vertical-align:top; margin:4px">
 <img title="Firebase" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="Firebase" height="20" style="vertical-align:top; margin:4px">
 <img title="Express.js" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" height="20" style="vertical-align:top; margin:4px">
+<img title="MySQL" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="20" style="vertical-align:top; margin:4px">
+<img title="Postgresql" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_vertical_logo_icon_168900.png" alt="Postgresql" height="20" style="vertical-align:top; margin:4px">
 </p>
 <hr/>
 <p>
