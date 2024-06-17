@@ -8,8 +8,8 @@
 <h3>:chart_with_upwards_trend: Github Stats :chart_with_upwards_trend:</h3>
 <p align="left">
 <a href="https://github.com/ujangaripin24">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujangaripin24&layout=compact&langs_count=12&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujangaripin24&layout=compact&langs_count=12&theme=tokyonight&count_private=false"/>
 </a>
 </p>
 <hr/>
