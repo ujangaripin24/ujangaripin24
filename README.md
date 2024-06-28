@@ -8,8 +8,12 @@
 <h3>:chart_with_upwards_trend: Github Stats :chart_with_upwards_trend:</h3>
 <p align="left">
 <a href="https://github.com/ujangaripin24">
-  <img height="370" src="https://leetcard.jacoblin.cool/ujangaripin24?theme=dark&font=Kameron&ext=activity" />
-<img height="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=dark&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
+  <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
+  <img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=vue-dark&hide_border=true"/>
+  <!-- State Language -->
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </p>
 <hr/>
