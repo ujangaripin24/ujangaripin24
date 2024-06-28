@@ -49,7 +49,7 @@
 <img title="Figma" src="https://ujangaripin24.github.io/img/icon/Figma.svg" alt="Figma" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="QGIS" src="https://ujangaripin24.github.io/img/icon/QGIS.svg" alt="QGIS" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Postman" src="https://ujangaripin24.github.io/img/icon/Postman.svg" alt="Postman" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Clerk" src="https://ujangaripin24.github.io/img/icon/Clerk" alt="Clerk" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
+<img title="Clerk" src="https://ujangaripin24.github.io/img/icon/Clerk.svg" alt="Clerk" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Supabase" src="https://ujangaripin24.github.io/img/icon/Supabase.svg" alt="Supabase" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Heroku" src="https://ujangaripin24.github.io/img/icon/Heroku.svg" alt="Heroku" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Vercel" src="https://ujangaripin24.github.io/img/icon/Vercel.svg" alt="Vercel" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
