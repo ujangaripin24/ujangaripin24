@@ -23,6 +23,8 @@
 <img title="Bootstrap" src="https://ujangaripin24.github.io/img/icon/Bootstrap.svg" alt="Bootstrap" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Bulma" src="https://ujangaripin24.github.io/img/icon/Bulma.svg" alt="Bulma" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Material UI" src="https://ujangaripin24.github.io/img/icon/Material-UI.svg" alt="Material UI" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
+<img title="Vuex" src="https://ujangaripin24.github.io/img/icon/Vuex.svg" alt="Vuex" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
+<img title="Redux" src="https://ujangaripin24.github.io/img/icon/Redux.svg" alt="Redux" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Vite" src="https://ujangaripin24.github.io/img/icon/Vite.svg" alt="Vite" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Vitest Unit Testing" src="https://ujangaripin24.github.io/img/icon/Vitest.svg" alt="Vitest" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Jasmine Unit Testing" src="https://ujangaripin24.github.io/img/icon/Jasmine.svg" alt="Jasmine" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
@@ -47,6 +49,7 @@
 <img title="Figma" src="https://ujangaripin24.github.io/img/icon/Figma.svg" alt="Figma" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="QGIS" src="https://ujangaripin24.github.io/img/icon/QGIS.svg" alt="QGIS" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Postman" src="https://ujangaripin24.github.io/img/icon/Postman.svg" alt="Postman" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
+<img title="Clerk" src="https://ujangaripin24.github.io/img/icon/Clerk" alt="Clerk" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Supabase" src="https://ujangaripin24.github.io/img/icon/Supabase.svg" alt="Supabase" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Heroku" src="https://ujangaripin24.github.io/img/icon/Heroku.svg" alt="Heroku" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
 <img title="Vercel" src="https://ujangaripin24.github.io/img/icon/Vercel.svg" alt="Vercel" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
