@@ -4,10 +4,10 @@
     <th>Stats</th>
   </tr>
   <tr>
-    <td style="text-align: justify">
+    <td style="width:50%; text-align: justify">
       Saya 🤠 <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a> seorang passionate Frontend Developer, 💻 Saya memiliki pengalaman bekerja sebagai Frontend Developer lebih dari 🚀 1 tahun dan berpengalaman sebagai PHP Web Developer kurang lebih 🚀 2 tahun, 🌏 tidak hanya itu saya adalah pengembang Aplikasi berbasis Peta Digital dan memiliki keterampilan lain di bidang 🎨 Desain Grafis dan pengembangan ⚙️ Backend serta 📱 Aplikasi Mobile.
     </td>
-    <td style="width:40%">
+    <td style="width:50%">
       <img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
   </tr>
 </table>
