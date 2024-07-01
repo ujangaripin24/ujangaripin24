@@ -13,7 +13,7 @@
   <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
 <!--   <img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=vue-dark&hide_border=true"/> -->
   <!-- State Language -->
-  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=vue-dark&layout=compact&langs_count=10"/>
 </a>
 </p>
 <hr/>
