@@ -1,74 +1,85 @@
-<h3>:wave: Hello There :wave:</h3>
+<table style="width:100%">
+  <tr>
+    <th>Tentang Saya</th>
+    <th>Stats</th>
+  </tr>
+  <tr>
+    <td style="text-align: justify">
+      Saya 🤠 <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a> seorang passionate Frontend Developer, 💻 Saya memiliki pengalaman bekerja sebagai Frontend Developer lebih dari 🚀 1 tahun dan berpengalaman sebagai PHP Web Developer kurang lebih 🚀 2 tahun, 🌏 tidak hanya itu saya adalah pengembang Aplikasi berbasis Peta Digital dan memiliki keterampilan lain di bidang 🎨 Desain Grafis dan pengembangan ⚙️ Backend serta 📱 Aplikasi Mobile.
+    </td>
+    <td style="width:40%">
+      <img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
+  </tr>
+</table>
 
-- :cowboy_hat_face: My Name Is @Ujang Aripin
-- :computer: <b>Daily User Linux</b>
-- :coffee: I Love Coding
+<div style="margin-top: 2px">
 
-<hr/>
-<h3>:chart_with_upwards_trend: Github Stats :chart_with_upwards_trend:</h3>
-<p align="left">
-<a href="https://github.com/ujangaripin24">
-  <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-  <img height="125" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
-<!--   <img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=vue-dark&hide_border=true"/> -->
-  <!-- State Language -->
-  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=vue-dark&layout=compact&langs_count=10"/>
-</a>
-</p>
-<hr/>
+  ![](./assets/header_.png)
 
-<h3>:robot: Framework and Tools: :robot:</h3>
-<p align="left">
-<img title="Vue JS" src="https://ujangaripin24.github.io/img/icon/Vue.svg" alt="vue" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="React JS" src="https://ujangaripin24.github.io/img/icon/React.svg" alt="React" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Angular" src="https://ujangaripin24.github.io/img/icon/Angular.svg" alt="Angular" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Next JS" src="https://ujangaripin24.github.io/img/icon/Next.svg" alt="Next" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Bootstrap" src="https://ujangaripin24.github.io/img/icon/Bootstrap.svg" alt="Bootstrap" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Bulma" src="https://ujangaripin24.github.io/img/icon/Bulma.svg" alt="Bulma" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Material UI" src="https://ujangaripin24.github.io/img/icon/Material-UI.svg" alt="Material UI" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Vuex" src="https://ujangaripin24.github.io/img/icon/Vuex.svg" alt="Vuex" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Redux" src="https://ujangaripin24.github.io/img/icon/Redux.svg" alt="Redux" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Vite" src="https://ujangaripin24.github.io/img/icon/Vite.svg" alt="Vite" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Vitest Unit Testing" src="https://ujangaripin24.github.io/img/icon/Vitest.svg" alt="Vitest" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Jasmine Unit Testing" src="https://ujangaripin24.github.io/img/icon/Jasmine.svg" alt="Jasmine" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Jest Unit Testing" src="https://ujangaripin24.github.io/img/icon/Jest.svg" alt="Jest" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-  
-<img title="Leaflet JS" src="https://ujangaripin24.github.io/img/icon/Leaflet.svg" alt="Leaflet" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Mapbox" src="https://ujangaripin24.github.io/img/icon/Mapbox.svg" alt="Mapbox" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
+</div>
 
-<img title="Firebase" src="https://ujangaripin24.github.io/img/icon/Firebase.svg" alt="Firebase" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Express.js" src="https://ujangaripin24.github.io/img/icon/Express.svg" alt="Express.js" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
+<h1 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h1>
 
-<img title="Flutter" src="https://ujangaripin24.github.io/img/icon/Flutter.svg" alt="Flutter" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="React-Native" src="https://ujangaripin24.github.io/img/icon/React-Native.svg" alt="React-Native" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Ionic" src="https://ujangaripin24.github.io/img/icon/Ionic.svg" alt="Ionic" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
+<div align="center"> 
+    <h3>📊 Github Stats 📊</h3>
+    <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=tokyonight&hide_border=false" />
+    <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=15" />
+</div>
 
-<img title="MySQL" src="https://ujangaripin24.github.io/img/icon/My-SQL.svg" alt="MySQL" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="PostGIS" src="https://ujangaripin24.github.io/img/icon/PostGIS.svg" alt="PostGIS" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-</p>
+<!--END_SECTION:waka-->
 
-<h3>:robot: Software: :robot:</h3>
-<p align="left">
-<img title="Figma" src="https://ujangaripin24.github.io/img/icon/Figma.svg" alt="Figma" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="QGIS" src="https://ujangaripin24.github.io/img/icon/QGIS.svg" alt="QGIS" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Postman" src="https://ujangaripin24.github.io/img/icon/Postman.svg" alt="Postman" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Clerk" src="https://ujangaripin24.github.io/img/icon/Clerk.svg" alt="Clerk" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Supabase" src="https://ujangaripin24.github.io/img/icon/Supabase.svg" alt="Supabase" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Heroku" src="https://ujangaripin24.github.io/img/icon/Heroku.svg" alt="Heroku" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Vercel" src="https://ujangaripin24.github.io/img/icon/Vercel.svg" alt="Vercel" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="VSCode" src="https://ujangaripin24.github.io/img/icon/VSCode.svg" alt="Visual Code" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="GIT" src="https://ujangaripin24.github.io/img/icon/GIT.svg" alt="GIT" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Github" src="https://ujangaripin24.github.io/img/icon/Github.svg" alt="Github" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Debian" src="https://ujangaripin24.github.io/img/icon/Debian.svg" alt="Debian" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-<img title="Phoptoshop" src="https://ujangaripin24.github.io/img/icon/Photoshop.svg" alt="Phoptoshop" height="35" style="vertical-align:top; margin-left: 15; margin:4px">
-</p>
+<div align="center" style="width:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>🚀 Frameworks and Tools</b></td>
+      <td valign="center" width="100px"><b>🚀 Software</b></td>
+    </tr>
+    <tr>    
+      <td valign="center" align="center" width="300px">
+        <code><img height="25" title="Vue" src="https://ujangaripin24.github.io/img/icon/Vue.svg" alt="vue" /></code>
+        <code><img height="25" title="React" src="https://ujangaripin24.github.io/img/icon/React.svg" alt="React" /></code>
+        <code><img height="25" title="Angular" src="https://ujangaripin24.github.io/img/icon/Angular.svg" alt="Angular" /></code>
+        <code><img height="25" title="Next" src="https://ujangaripin24.github.io/img/icon/Next.svg" alt="Next" /></code>
+        <code><img height="25" title="Bootstrap" src="https://ujangaripin24.github.io/img/icon/Bootstrap.svg" alt="Bootstrap" /></code>
+        <code><img height="25" title="Bulma" src="https://ujangaripin24.github.io/img/icon/Bulma.svg" alt="Bulma" /></code>
+        <code><img height="25" title="Material UI" src="https://ujangaripin24.github.io/img/icon/Material-UI.svg" alt="Material UI" /></code>
+        <code><img height="25" title="Vuex" src="https://ujangaripin24.github.io/img/icon/Vuex.svg" alt="Vuex" /></code>
+        <code><img height="25" title="Redux" src="https://ujangaripin24.github.io/img/icon/Redux.svg" alt="Redux" /></code>
+        <code><img height="25" title="Vite" src="https://ujangaripin24.github.io/img/icon/Vite.svg" alt="Vite" /></code>
+        <code><img height="25" title="Vitest" src="https://ujangaripin24.github.io/img/icon/Vitest.svg" alt="Vitest" /></code>
+        <code><img height="25" title="Jasmine" src="https://ujangaripin24.github.io/img/icon/Jasmine.svg" alt="Jasmine" /></code>
+        <code><img height="25" title="Jest" src="https://ujangaripin24.github.io/img/icon/Jest.svg" alt="Jest" /></code>
+        <code><img height="25" title="Leaflet" src="https://ujangaripin24.github.io/img/icon/Leaflet.svg" alt="Leaflet" /></code>
+        <code><img height="25" title="Mapbox" src="https://ujangaripin24.github.io/img/icon/Mapbox.svg" alt="Mapbox" /></code>
+        <code><img height="25" title="Firebase" src="https://ujangaripin24.github.io/img/icon/Firebase.svg" alt="Firebase" /></code>
+        <code><img height="25" title="Express" src="https://ujangaripin24.github.io/img/icon/Express.svg" alt="Express" /></code>
+        <code><img height="25" title="Flutter" src="https://ujangaripin24.github.io/img/icon/Flutter.svg" alt="Flutter" /></code>
+        <code><img height="25" title="React-Native" src="https://ujangaripin24.github.io/img/icon/React-Native.svg" alt="React-Native" /></code>
+        <code><img height="25" title="Ionic" src="https://ujangaripin24.github.io/img/icon/Ionic.svg" alt="Ionic" /></code>
+        <code><img height="25" title="My SQL" src="https://ujangaripin24.github.io/img/icon/My-SQL.svg" alt="My SQL" /></code>
+        <code><img height="25" title="PostGIS" src="https://ujangaripin24.github.io/img/icon/PostGIS.svg" alt="PostGIS" /></code>
+      </td>
+      <td valign="center" align="center" width="300px">
+        <code><img height="25" title="Figma" src="https://ujangaripin24.github.io/img/icon/Figma.svg" alt="Figma" /></code>
+        <code><img height="25" title="QGIS" src="https://ujangaripin24.github.io/img/icon/QGIS.svg" alt="QGIS" /></code>
+        <code><img height="25" title="Postman" src="https://ujangaripin24.github.io/img/icon/Postman.svg" alt="Postman" /></code>
+        <code><img height="25" title="Clerk" src="https://ujangaripin24.github.io/img/icon/Clerk.svg" alt="Clerk" /></code>
+        <code><img height="25" title="Supabase" src="https://ujangaripin24.github.io/img/icon/Supabase.svg" alt="Supabase" /></code>
+        <code><img height="25" title="VSCode" src="https://ujangaripin24.github.io/img/icon/VSCode.svg" alt="VSCode" /></code>
+        <code><img height="25" title="GIT" src="https://ujangaripin24.github.io/img/icon/GIT.svg" alt="GIT" /></code>
+        <code><img height="25" title="Github" src="https://ujangaripin24.github.io/img/icon/Github.svg" alt="Github" /></code>
+        <code><img height="25" title="Debian" src="https://ujangaripin24.github.io/img/icon/Debian.svg" alt="Debian" /></code>
+        <code><img height="25" title="Photoshop" src="https://ujangaripin24.github.io/img/icon/Photoshop.svg" alt="Photoshop" /></code>
+      </td>
+    </tr>
+  </table>
 
-<hr/>
-<p>
-<h3>:trophy: GitHub Trophies :trophy:</h3>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=onedark&title=Stars,Followers,Commit,Issue,Repositories)](https://github.com/ujangaripin24/github-profile-trophy)
+#
+<div align="center">
+<h3>🏆 Github Profile Trophy 🏆</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" />
+</div>
 
-</p>
-<hr/>
+[![](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)
