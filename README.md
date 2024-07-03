@@ -4,37 +4,39 @@
     <th>Stats</th>
   </tr>
   <tr>
-    <td style="width:50%; text-align: justify">
+    <td style="width:50; text-align: justify">
       Saya 🤠 <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a> seorang passionate Frontend Developer, 💻 Saya memiliki pengalaman bekerja sebagai Frontend Developer lebih dari 🚀 1 tahun dan berpengalaman sebagai PHP Web Developer kurang lebih 🚀 2 tahun, 🌏 tidak hanya itu saya adalah pengembang Aplikasi berbasis Peta Digital dan memiliki keterampilan lain di bidang 🎨 Desain Grafis dan pengembangan ⚙️ Backend serta 📱 Aplikasi Mobile.
     </td>
-    <td style="width:50%">
-      <img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
+    <td style="width:500px">
+      <img src="https://i.gifer.com/2GU.gif" width="250" height="250" />
+    </td>
   </tr>
 </table>
 
 <div style="margin-top: 2px">
 
-  ![](./assets/header_.png)
+![](./assets/header_.png)
 
 </div>
 
-<h1 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h1>
+<h2 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h2>
 
 <div align="center"> 
-    <h3>📊 Github Stats 📊</h3>
+    <h2>📊 Github Stats 📊</h2>
     <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=tokyonight&hide_border=false" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
     <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=15" />
 </div>
 
 <!--END_SECTION:waka-->
 
-<div align="center" style="width:100%"> 
+<div align="center" style="width:100%">
+  <h2>📊 Technology I Use 📊</h2>
   <table>
     <tr>
-      <td valign="center" width="100px"><b>🚀 Frameworks and Tools</b></td>
-      <td valign="center" width="100px"><b>🚀 Software</b></td>
+      <td valign="center" align="center" width="100px"><b>🚀 Framework and Tools 🚀</b></td>
+      <td valign="center" align="center" width="100px"><b>🚀 Software 🚀</b></td>
     </tr>
     <tr>    
       <td valign="center" align="center" width="300px">
@@ -77,9 +79,25 @@
   </table>
 
 #
+
+<div align="center">
+<h2>🌐 Socials 🌐</h2>
+
+[![Github](https://img.shields.io/badge/Github-%36454F.svg?logo=Github&logoColor=white)](https://facebook.com/aripin.p.18)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aripin.p.18)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aripin_2401)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujang-aripin-a80107237)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ujangaripin24&icon=2&color=3)](https://visitcount.itsvg.in)
+
+</div>
+
+#
+
 <div align="center">
 <h3>🏆 Github Profile Trophy 🏆</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" />
 </div>
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)
+[![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)
