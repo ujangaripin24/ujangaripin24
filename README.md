@@ -22,15 +22,15 @@
 <h2 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h2>
 
 <div align="center"> 
-    <h2>📊 Github Stats 📊</h2>
+    <p style="font-weight: bold;">📊 Github Stats 📊</p>
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=15" />
 </div>
 
-<!--END_SECTION:waka-->
+#
 
 <div align="center" style="width:100%">
-  <h2>📊 Technology I Use 📊</h2>
+  <p style="font-weight: bold;">📊 Technology I Use 📊</p>
   <table>
     <tr>
       <td valign="center" align="center" width="100px"><b>🚀 Framework and Tools 🚀</b></td>
@@ -79,7 +79,7 @@
 #
 
 <div align="center">
-  <div><h3>🏆 Github Profile Trophy 🏆</h3></div>
+  <div><p style="font-weight: bold;">🏆 Github Profile Trophy 🏆</p></div>
   <div><img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" /></div>
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
   <div>
-    <h2>🌐 Today  🌐</h2>
+    <p style="font-weight: bold;">🌐 Social Media 🌐</p>
   </div>
   <div>
     <a target="_blank" href="https://ujangaripin24.github.io/">
@@ -108,5 +108,8 @@
 <div align="center">
   <img src="./assets/2GU.gif" width="250" height="250" />
 </div>
+
+
+#
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)
