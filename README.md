@@ -83,6 +83,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" />
 </div>
 
+<hr/>
 <div align="center">
   <h2>🌐 Socials 🌐</h2>
   <a target="_blank" href="https://ujangaripin24.github.io/">
@@ -97,12 +98,10 @@
   <a target="_blank" href="https://linkedin.com/in/ujang-aripin-a80107237">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-
-  <img src="./assets/2GU.gif" width="250" height="250" />
-
 </div>
 
 <div align="center">
+  <h2>🌐 Socials 🌐</h2>
   <img src="./assets/2GU.gif" width="250" height="250" />
 </div>
 
