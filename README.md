@@ -102,4 +102,8 @@
 
 </div>
 
+<div align="center">
+  <img src="./assets/2GU.gif" width="250" height="250" />
+</div>
+
 [![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)
