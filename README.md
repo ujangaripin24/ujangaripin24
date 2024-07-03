@@ -79,29 +79,33 @@
 #
 
 <div align="center">
-<h3>🏆 Github Profile Trophy 🏆</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" />
+  <div><h3>🏆 Github Profile Trophy 🏆</h3></div>
+  <div><img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" /></div>
 </div>
 
-<hr/>
+#
+
 <div align="center">
-  <h2>🌐 Socials 🌐</h2>
-  <a target="_blank" href="https://ujangaripin24.github.io/">
-    <img src="https://img.shields.io/badge/Github-%36454F.svg?logo=Github&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://facebook.com/aripin.p.18">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://instagram.com/aripin_2401">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://linkedin.com/in/ujang-aripin-a80107237">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
+  <div>
+    <h2>🌐 Today  🌐</h2>
+  </div>
+  <div>
+    <a target="_blank" href="https://ujangaripin24.github.io/">
+      <img src="https://img.shields.io/badge/Github-%36454F.svg?logo=Github&logoColor=white"/>
+    </a>
+    <a target="_blank" href="https://facebook.com/aripin.p.18">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+    </a>
+    <a target="_blank" href="https://instagram.com/aripin_2401">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+    </a>
+    <a target="_blank" href="https://linkedin.com/in/ujang-aripin-a80107237">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    </a>
+  </div>
 </div>
 
 <div align="center">
-  <h2>🌐 Socials 🌐</h2>
   <img src="./assets/2GU.gif" width="250" height="250" />
 </div>
 
