@@ -7,8 +7,8 @@
     <td style="text-align: justify">
       Saya 🤠 <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a> seorang passionate Frontend Developer, 💻 Saya memiliki pengalaman bekerja sebagai Frontend Developer lebih dari 🚀 1 tahun dan berpengalaman sebagai PHP Web Developer kurang lebih 🚀 2 tahun, 🌏 tidak hanya itu saya adalah pengembang Aplikasi berbasis Peta Digital dan memiliki keterampilan lain di bidang 🎨 Desain Grafis dan pengembangan ⚙️ Backend serta 📱 Aplikasi Mobile.
     </td>
-    <td style="width:500px">
-      <img src="./assets/2GU.gif" width="250" height="250" />
+    <td>
+      <img align="right" style="width:auto; height:300;" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=tokyonight&hide_border=false" /></td>
     </td>
   </tr>
 </table>
@@ -23,9 +23,7 @@
 
 <div align="center"> 
     <h2>📊 Github Stats 📊</h2>
-    <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-    <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=15" />
 </div>
 
@@ -81,23 +79,27 @@
 #
 
 <div align="center">
-<h2>🌐 Socials 🌐</h2>
-
-[![Github](https://img.shields.io/badge/Github-%36454F.svg?logo=Github&logoColor=white)](https://facebook.com/aripin.p.18)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aripin.p.18)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aripin_2401)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujang-aripin-a80107237)
-
----
-[![](https://visitcount.itsvg.in/api?id=ujangaripin24&icon=2&color=3)](https://visitcount.itsvg.in)
-
-</div>
-
-#
-
-<div align="center">
 <h3>🏆 Github Profile Trophy 🏆</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" />
+</div>
+
+<div align="center">
+  <h2>🌐 Socials 🌐</h2>
+  <a target="_blank" href="https://ujangaripin24.github.io/">
+    <img src="https://img.shields.io/badge/Github-%36454F.svg?logo=Github&logoColor=white"/>
+  </a>
+  <a target="_blank" href="https://facebook.com/aripin.p.18">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+  </a>
+  <a target="_blank" href="https://instagram.com/aripin_2401">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a target="_blank" href="https://linkedin.com/in/ujang-aripin-a80107237">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+
+  <img src="./assets/2GU.gif" width="250" height="250" />
+
 </div>
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer)
