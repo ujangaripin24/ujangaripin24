@@ -1,3 +1,5 @@
+<h2 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h2>
+
 <table style="width:100%">
   <tr>
     <th>Tentang Saya</th>
@@ -19,10 +21,8 @@
 
 </div>
 
-<h2 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h2>
-
 <div align="center"> 
-    <p style="font-weight: bold;">📊 Github Stats 📊</p>
+    <p><b>📊 Github Stats 📊</b></p>
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=15" />
 </div>
@@ -30,7 +30,7 @@
 #
 
 <div align="center" style="width:100%">
-  <p style="font-weight: bold;">📊 Technology I Use 📊</p>
+  <p><b>📊 Technology I Use 📊</b></p>
   <table>
     <tr>
       <td valign="center" align="center" width="100px"><b>🚀 Framework and Tools 🚀</b></td>
@@ -79,7 +79,7 @@
 #
 
 <div align="center">
-  <div><p style="font-weight: bold;">🏆 Github Profile Trophy 🏆</p></div>
+  <div><p><b>🏆 Github Profile Trophy 🏆</b></p></div>
   <div><img src="https://github-profile-trophy.vercel.app/?username=ujangaripin24&theme=tokyonight&row=1&column=8" /></div>
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
   <div>
-    <p style="font-weight: bold;">🌐 Social Media 🌐</p>
+    <p><b>🌐 Social Media 🌐</b></p>
   </div>
   <div>
     <a target="_blank" href="https://ujangaripin24.github.io/">
