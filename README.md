@@ -4,7 +4,7 @@
     <th>Stats</th>
   </tr>
   <tr>
-    <td style="width:50; text-align: justify">
+    <td style="text-align: justify">
       Saya 🤠 <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a> seorang passionate Frontend Developer, 💻 Saya memiliki pengalaman bekerja sebagai Frontend Developer lebih dari 🚀 1 tahun dan berpengalaman sebagai PHP Web Developer kurang lebih 🚀 2 tahun, 🌏 tidak hanya itu saya adalah pengembang Aplikasi berbasis Peta Digital dan memiliki keterampilan lain di bidang 🎨 Desain Grafis dan pengembangan ⚙️ Backend serta 📱 Aplikasi Mobile.
     </td>
     <td style="width:500px">
