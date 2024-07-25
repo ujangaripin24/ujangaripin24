@@ -3,14 +3,10 @@
 <table style="width:100%">
   <tr>
     <th>Tentang Saya</th>
-    <th>Stats</th>
   </tr>
   <tr>
     <td style="text-align: justify">
       Saya 🤠 <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a> seorang passionate Frontend Developer, 💻 Saya memiliki pengalaman bekerja sebagai Frontend Developer lebih dari 🚀 1 tahun dan berpengalaman sebagai PHP Web Developer kurang lebih 🚀 2 tahun, 🌏 tidak hanya itu saya adalah pengembang Aplikasi berbasis Peta Digital dan memiliki keterampilan lain di bidang 🎨 Desain Grafis dan pengembangan ⚙️ Backend serta 📱 Aplikasi Mobile.
-    </td>
-    <td>
-      <img align="right" style="width:auto; height:300;" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=tokyonight&hide_border=false" /></td>
     </td>
   </tr>
 </table>
@@ -19,11 +15,11 @@
 
 ![](./assets/header_.png)
 
-</div>
+</div>****
 
-<div align="center"> 
+<div align="center"> ****
     <p><b>📊 Github Stats 📊</b></p>
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=ujangaripin24&theme=tokyonight&show_icons=true&count_private=true" />
+    <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=tokyonight&hide_border=false" />
     <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&layout=pie&langs_count=10&theme=tokyonight&count_private=true" />
 </div>
 
@@ -33,10 +29,10 @@
   <p><b>📊 Technology I Use 📊</b></p>
   <table>
     <tr>
-      <td valign="center" align="center" width="100px"><b>🚀 Framework and Tools 🚀</b></td>
-      <td valign="center" align="center" width="100px"><b>🚀 Software 🚀</b></td>
+      <td valign="center" align="center" width="100px"><b>🚀 Frontend and Tools 🚀</b></td>
+      <td valign="center" align="center" width="100px"><b>🚀 Backend and Tools 🚀</b></td>
     </tr>
-    <tr>    
+    <tr>
       <td valign="center" align="center" width="300px">
         <code><img height="25" title="Vue" src="https://ujangaripin24.github.io/img/icon/Vue.svg" alt="vue" /></code>
         <code><img height="25" title="React" src="https://ujangaripin24.github.io/img/icon/React.svg" alt="React" /></code>
@@ -50,17 +46,40 @@
         <code><img height="25" title="Vite" src="https://ujangaripin24.github.io/img/icon/Vite.svg" alt="Vite" /></code>
         <code><img height="25" title="Vitest" src="https://ujangaripin24.github.io/img/icon/Vitest.svg" alt="Vitest" /></code>
         <code><img height="25" title="Jasmine" src="https://ujangaripin24.github.io/img/icon/Jasmine.svg" alt="Jasmine" /></code>
-        <code><img height="25" title="Jest" src="https://ujangaripin24.github.io/img/icon/Jest.svg" alt="Jest" /></code>
         <code><img height="25" title="Leaflet" src="https://ujangaripin24.github.io/img/icon/Leaflet.svg" alt="Leaflet" /></code>
         <code><img height="25" title="Mapbox" src="https://ujangaripin24.github.io/img/icon/Mapbox.svg" alt="Mapbox" /></code>
+      </td>
+      <td valign="center" align="center" width="300px">
         <code><img height="25" title="Firebase" src="https://ujangaripin24.github.io/img/icon/Firebase.svg" alt="Firebase" /></code>
         <code><img height="25" title="Express" src="https://ujangaripin24.github.io/img/icon/Express.svg" alt="Express" /></code>
-        <code><img height="25" title="Flutter" src="https://ujangaripin24.github.io/img/icon/Flutter.svg" alt="Flutter" /></code>
-        <code><img height="25" title="React-Native" src="https://ujangaripin24.github.io/img/icon/React-Native.svg" alt="React-Native" /></code>
-        <code><img height="25" title="Ionic" src="https://ujangaripin24.github.io/img/icon/Ionic.svg" alt="Ionic" /></code>
         <code><img height="25" title="My SQL" src="https://ujangaripin24.github.io/img/icon/My-SQL.svg" alt="My SQL" /></code>
         <code><img height="25" title="PostGIS" src="https://ujangaripin24.github.io/img/icon/PostGIS.svg" alt="PostGIS" /></code>
       </td>
+    </tr>
+  </table>
+    <table>
+    <tr>
+      <td valign="center" align="center" width="100px"><b>🚀 Mobile & Hybrid App 🚀</b></td>
+      <td valign="center" align="center" width="100px"><b>📖 I'm also learning 📖</b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <code><img height="25" title="Flutter" src="https://ujangaripin24.github.io/img/icon/Flutter.svg" alt="Flutter" /></code>
+        <code><img height="25" title="React-Native" src="https://ujangaripin24.github.io/img/icon/React-Native.svg" alt="React-Native" /></code>
+        <code><img height="25" title="Ionic" src="https://ujangaripin24.github.io/img/icon/Ionic.svg" alt="Ionic" /></code>
+      </td>
+      <td valign="center" align="center" width="300px">
+        <code><img height="25" title="Docker" src="https://ujangaripin24.github.io/img/icon/Docker.svg" alt="Docker" /></code>
+        <code><img height="25" title="Golang" src="https://ujangaripin24.github.io/img/icon/Golang.svg" alt="Golang" /></code>
+        <code><img height="25" title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/Mongodb.svg" alt="Mongo DB" /></code>
+      </td>
+    </tr>
+  </table>
+    <table>
+    <tr>
+      <td valign="center" align="center" width="100px"><b>🚀 Software 🚀</b></td>
+    </tr>
+    <tr>
       <td valign="center" align="center" width="300px">
         <code><img height="25" title="Figma" src="https://ujangaripin24.github.io/img/icon/Figma.svg" alt="Figma" /></code>
         <code><img height="25" title="QGIS" src="https://ujangaripin24.github.io/img/icon/QGIS.svg" alt="QGIS" /></code>
@@ -75,6 +94,7 @@
       </td>
     </tr>
   </table>
+</div>
 
 #
 
@@ -108,7 +128,6 @@
 <div align="center">
   <img src="./assets/2GU.gif" width="250" height="250" />
 </div>
-
 
 #
 
