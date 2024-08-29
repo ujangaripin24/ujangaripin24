@@ -74,7 +74,7 @@
         <code><img height="25" title="Docker" src="https://ujangaripin24.github.io/img/icon/Docker.svg" alt="Docker" /></code>
         <code><img height="25" title="Golang" src="https://ujangaripin24.github.io/img/icon/Golang.svg" alt="Golang" /></code>
         <code><img height="25" title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/Mongodb.svg" alt="Mongo DB" /></code>
-        <code><img height="25" title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/AWS.svg" alt="Amazon Web Service" /></code>
+        <code><img height="25" title="Amazon Web Service" src="https://ujangaripin24.github.io/img/icon/AWS.svg" alt="Amazon Web Service" /></code>
       </td>
     </tr>
   </table>
