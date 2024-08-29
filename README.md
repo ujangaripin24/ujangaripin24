@@ -15,9 +15,9 @@
 
 ![](./assets/header_.png)
 
-</div>****
+</div
 
-<div align="center"> ****
+<div align="center">
     <p><b>📊 Github Stats 📊</b></p>
     <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=ujangaripin24&theme=tokyonight&hide_border=false" />
     <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujangaripin24&layout=pie&langs_count=10&theme=tokyonight&count_private=true" />
@@ -72,6 +72,7 @@
         <code><img height="25" title="Docker" src="https://ujangaripin24.github.io/img/icon/Docker.svg" alt="Docker" /></code>
         <code><img height="25" title="Golang" src="https://ujangaripin24.github.io/img/icon/Golang.svg" alt="Golang" /></code>
         <code><img height="25" title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/Mongodb.svg" alt="Mongo DB" /></code>
+        <code><img height="25" title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/AWS.svg" alt="Mongo DB" /></code>
       </td>
     </tr>
   </table>
