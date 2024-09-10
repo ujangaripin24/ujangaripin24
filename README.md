@@ -76,6 +76,7 @@
       <td valign="center" align="center" width="300px">
         <code><img height="25" title="Python" src="https://ujangaripin24.github.io/img/icon/Python.svg" alt="Python" /></code>
         <code><img height="25" title="Rust" src="https://ujangaripin24.github.io/img/icon/Rust.svg" alt="Rust" /></code>
+        <code><img height="25" title="Jenkins" src="https://ujangaripin24.github.io/img/icon/JENKINS.svg" alt="Jenkins" /></code>
         <code><img height="25" title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/Mongodb.svg" alt="Mongo DB" /></code>
       </td>
     </tr>
