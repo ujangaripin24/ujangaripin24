@@ -56,6 +56,9 @@
         <code><img height="25" title="Express" src="https://ujangaripin24.github.io/img/icon/Express.svg" alt="Express" /></code>
         <code><img height="25" title="My SQL" src="https://ujangaripin24.github.io/img/icon/My-SQL.svg" alt="My SQL" /></code>
         <code><img height="25" title="PostGIS" src="https://ujangaripin24.github.io/img/icon/PostGIS.svg" alt="PostGIS" /></code>
+        <code><img height="25" title="Docker" src="https://ujangaripin24.github.io/img/icon/Docker.svg" alt="Docker" /></code>
+        <code><img height="25" title="Golang" src="https://ujangaripin24.github.io/img/icon/Golang.svg" alt="Golang" /></code>
+        <code><img height="25" title="Amazon Web Service" src="https://ujangaripin24.github.io/img/icon/AWS.svg" alt="Amazon Web Service" /></code>
       </td>
     </tr>
   </table>
@@ -71,10 +74,9 @@
         <code><img height="25" title="Ionic" src="https://ujangaripin24.github.io/img/icon/Ionic.svg" alt="Ionic" /></code>
       </td>
       <td valign="center" align="center" width="300px">
-        <code><img height="25" title="Docker" src="https://ujangaripin24.github.io/img/icon/Docker.svg" alt="Docker" /></code>
-        <code><img height="25" title="Golang" src="https://ujangaripin24.github.io/img/icon/Golang.svg" alt="Golang" /></code>
+        <code><img height="25" title="Python" src="https://ujangaripin24.github.io/img/icon/Python.svg" alt="Python" /></code>
+        <code><img height="25" title="Rust" src="https://ujangaripin24.github.io/img/icon/Rust.svg" alt="Rust" /></code>
         <code><img height="25" title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/Mongodb.svg" alt="Mongo DB" /></code>
-        <code><img height="25" title="Amazon Web Service" src="https://ujangaripin24.github.io/img/icon/AWS.svg" alt="Amazon Web Service" /></code>
       </td>
     </tr>
   </table>
