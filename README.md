@@ -1,15 +1,19 @@
 <h2 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h2>
 
+<div align="center">
 <table style="width:100%">
   <tr>
-    <th>Tentang Saya</th>
+    <th>About Me</th>
   </tr>
   <tr>
     <td style="text-align: justify">
-    Hi there, my name is <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a>. I'm a passionate Frontend Developer with over one year of experience, and I also have more than two years of experience as a Software Developer. In addition, I have experience in Backend Development, Mobile App Development, Hybrid Apps, and Graphic Design using Figma. Currently, I'm also learning Python and Rust for Software Development.
+    Hi there, 
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20">
+    my name is <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a>. I'm a passionate Frontend Developer with over one year of experience, and I also have more than two years of experience as a Software Developer. In addition, I have experience in Backend Development, Mobile App Development, Hybrid Apps, and Graphic Design using Figma. Currently, I'm also learning Python and Rust for Software Development.
     </td>
   </tr>
 </table>
+</div>
 
 <div style="margin-top: 2px">
 
@@ -28,11 +32,11 @@
 #
 
 <div align="center" style="width:100%">
-  <p><b>📊 Technology I Use 📊</b></p>
+  <p><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" height="20"> Technology I Use <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" height="20"></b></p>
   <table>
     <tr>
-      <td valign="center" align="center" width="100px"><b>🚀 Frontend and Tools 🚀</b></td>
-      <td valign="center" align="center" width="100px"><b>🚀 Backend and Tools 🚀</b></td>
+      <td valign="center" align="center" width="100px"><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"> Frontend and Tools <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"></b></td>
+      <td valign="center" align="center" width="100px"><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"> Backend and Tools <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"></b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -64,7 +68,7 @@
   </table>
     <table>
     <tr>
-      <td valign="center" align="center" width="100px"><b>🚀 Mobile & Hybrid App 🚀</b></td>
+      <td valign="center" align="center" width="100px"><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"> Mobile & Hybrid App <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"></b></td>
       <td valign="center" align="center" width="100px"><b>📖 I'm also learning 📖</b></td>
     </tr>
     <tr>
@@ -83,7 +87,7 @@
   </table>
     <table>
     <tr>
-      <td valign="center" align="center" width="100px"><b>🚀 Software 🚀</b></td>
+      <td valign="center" align="center" width="100px"><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"> Software <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"></b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -113,7 +117,7 @@
 
 <div align="center">
   <div>
-    <p><b>🌐 Social Media 🌐</b></p>
+    <p><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="20" height="20"> Social Media <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="20" height="20"></b></p>
   </div>
   <div>
     <a target="_blank" href="https://ujangaripin24.github.io/">
