@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td style="text-align: justify">
-      Saya 🤠 <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a> seorang passionate Frontend Developer, 💻 Saya memiliki pengalaman bekerja sebagai Frontend Developer lebih dari 🚀 1 tahun dan berpengalaman sebagai PHP Web Developer kurang lebih 🚀 2 tahun, 🌏 tidak hanya itu saya adalah pengembang Aplikasi berbasis Peta Digital dan memiliki keterampilan lain di bidang 🎨 Desain Grafis dan pengembangan ⚙️ Backend serta 📱 Aplikasi Mobile.
+    Hi there, my name is <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a>. I'm a passionate Frontend Developer with over one year of experience, and I also have more than two years of experience as a Software Developer. In addition, I have experience in Backend Development, Mobile App Development, Hybrid Apps, and Graphic Design using Figma. Currently, I'm also learning Python and Rust for Software Development.
     </td>
   </tr>
 </table>
