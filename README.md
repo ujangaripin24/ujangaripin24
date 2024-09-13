@@ -69,7 +69,7 @@
     <table>
     <tr>
       <td valign="center" align="center" width="100px"><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"> Mobile & Hybrid App <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"></b></td>
-      <td valign="center" align="center" width="100px"><b>📖 I'm also learning 📖</b></td>
+      <td valign="center" align="center" width="100px"><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20"> I'm also learning <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20"></b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
