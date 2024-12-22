@@ -1,4 +1,4 @@
-<h2 align="center">Frontend Developer | Map-Based Developer | GIS Enthusiast</h2>
+<h2 align="center">Software Developer | Map-Based Developer | GIS Enthusiast</h2>
 
 <div align="center">
 <table style="width:100%">
