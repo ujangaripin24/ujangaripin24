@@ -9,7 +9,7 @@
     <td style="text-align: justify">
     Hi there, 
           <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20">
-    my name is <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a>. I'm a passionate Frontend Developer with over one year of experience, and I also have more than two years of experience as a Software Developer. In addition, I have experience in Backend Development, Mobile App Development, Hybrid Apps, and Graphic Design using Figma. Currently, I'm also learning Microservice Architecture, Java and Rust for Software Development.
+    my name is <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a>. I'm a passionate Frontend Developer with over two year of experience, and I also have more than two years of experience as a Software Developer. In addition, I have experience in Backend Development, Mobile App Development, Hybrid Apps, and Graphic Design using Figma. Currently, I'm also learning Microservice Architecture, Java and Rust for Software Development.
     </td>
   </tr>
 </table>
