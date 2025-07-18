@@ -5,6 +5,8 @@ Hi there, <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif
     my name is <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a>. I'm a passionate Frontend Developer with over two year of experience, and I also have more than two years of experience as a Software Developer. In addition, I have experience in Backend Development, Mobile App Development, Hybrid Apps, and Graphic Design using Figma. Currently, I'm also learning Microservice Architecture, Java and Rust for Software Development.
 </h5>
 
+![](./assets/header_.png)
+
 ##
 
 <div align="left">
@@ -100,6 +102,12 @@ Hi there, <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif
 <h3>My Github Stats</h3>
   <img src="https://streak-stats.demolab.com?user=ujangaripin24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ujangaripin24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+##
+
+<div align="center">
+  <img src="./assets/2GU.gif" width="250" height="250" />
 </div>
 
 ##
