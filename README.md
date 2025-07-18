@@ -1,9 +1,15 @@
+<h1 align="center">Hi 👋, I'm Ujang Aripin</h1>  
+<h3 align="center">Passionate frontend developer from Indonesia With More than Two Work Experiences</h3>    
 
-<h1 align="center">Welcome To My Github Profile</h1>
-<henter code here5>
-Hi there, <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20">
-    my name is <a target="_blank" href="https://ujangaripin24.github.io/">@Ujang Aripin</a>. I'm a passionate Frontend Developer with over two year of experience, and I also have more than two years of experience as a Software Developer. In addition, I have experience in Backend Development, Mobile App Development, Hybrid Apps, and Graphic Design using Figma. Currently, I'm also learning Microservice Architecture, Java and Rust for Software Development.
-</h5>
+- 🌱 I’m currently learning **Rust, Python and Microservice Architecture**  
+  
+- 👯 I’m looking to collaborate on **Backend developer and UI/UX**  
+  
+- 👨‍💻 All of my projects are available at [https://ujangaripin24.github.io/](https://ujangaripin24.github.io/)  
+  
+- 💬 Ask me about **Vue, react, angular and all about programming**  
+  
+- 📫 How to reach me **ujangarifin06@gmail.com**
 
 ![](./assets/header_.png)
 
@@ -100,12 +106,8 @@ Hi there, <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif
 
 <div align="left">
 <h3>My Github Stats</h3>
-  <div align="center">
       <img src="https://streak-stats.demolab.com?user=ujangaripin24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
-    <div align="center">
       <img src="https://github-profile-trophy.vercel.app?username=ujangaripin24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  </div>
 </div>
 
 ##
