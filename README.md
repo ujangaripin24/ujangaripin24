@@ -20,23 +20,23 @@
 
 <div align="left">
 <h3>Frontend Framework & Tools</h3>
-  <img title="Vue" src="https://ujangaripin24.github.io/img/icon/Vue.svg" height="25" alt="Vue Framework"  />
+  <img title="Vue" src="https://ujangaripin24.github.io/img/icon/Vue.svg" height="35" alt="Vue Framework"  />
   <img width="5" />
-  <img title="React" src="https://ujangaripin24.github.io/img/icon/React.svg" height="25" alt="React Framework"  />
+  <img title="React" src="https://ujangaripin24.github.io/img/icon/React.svg" height="35" alt="React Framework"  />
   <img width="5" />
-  <img title="Angular" src="https://ujangaripin24.github.io/img/icon/Angular.svg" height="25" alt="Angular Framework"  />
+  <img title="Angular" src="https://ujangaripin24.github.io/img/icon/Angular.svg" height="35" alt="Angular Framework"  />
   <img width="5" />
-  <img title="Next.JS" src="https://ujangaripin24.github.io/img/icon/Next.svg" height="25" alt="Next.JS Framework"  />
+  <img title="Next.JS" src="https://ujangaripin24.github.io/img/icon/Next.svg" height="35" alt="Next.JS Framework"  />
     <img width="5" />
-  <img title="State Management Vuex" src="https://ujangaripin24.github.io/img/icon/Vuex.svg" height="25" alt="State Management Vuex"  />
+  <img title="State Management Vuex" src="https://ujangaripin24.github.io/img/icon/Vuex.svg" height="35" alt="State Management Vuex"  />
   <img width="5" />
-  <img title="State Management Redux" src="https://ujangaripin24.github.io/img/icon/Redux.svg" height="25" alt="State Management Redux"  />
+  <img title="State Management Redux" src="https://ujangaripin24.github.io/img/icon/Redux.svg" height="35" alt="State Management Redux"  />
   <img width="5" />
-  <img title="Unit Testing Vitest" src="https://ujangaripin24.github.io/img/icon/Vitest.svg" height="25" alt="State Management Vitest"  />
+  <img title="Unit Testing Vitest" src="https://ujangaripin24.github.io/img/icon/Vitest.svg" height="35" alt="State Management Vitest"  />
   <img width="5" />
-  <img title="Unit Testing Jasmine" src="https://ujangaripin24.github.io/img/icon/Jasmine.svg" height="25" alt="State Management Jasmine"  />
+  <img title="Unit Testing Jasmine" src="https://ujangaripin24.github.io/img/icon/Jasmine.svg" height="35" alt="State Management Jasmine"  />
   <img width="5" />
-  <img title=" Leaflet" src="https://ujangaripin24.github.io/img/icon/Leaflet.svg" height="25" alt="Leaflet"  />
+  <img title=" Leaflet" src="https://ujangaripin24.github.io/img/icon/Leaflet.svg" height="35" alt="Leaflet"  />
   <img width="5" />
 </div>
 
@@ -44,19 +44,19 @@
 
 <div align="left">
 <h3>Backend Framework & Database</h3>
-  <img title="Express" src="https://ujangaripin24.github.io/img/icon/Express.svg" height="25" alt="Express Framework"  />
+  <img title="Express" src="https://ujangaripin24.github.io/img/icon/Express.svg" height="35" alt="Express Framework"  />
   <img width="5" />
-  <img title="Golang" src="https://ujangaripin24.github.io/img/icon/Golang.svg" height="25" alt="Golang Framework"  />
+  <img title="Golang" src="https://ujangaripin24.github.io/img/icon/Golang.svg" height="35" alt="Gin Framework"  />
   <img width="5" />
-  <img title="Spring Boot" src="https://ujangaripin24.github.io/img/icon/Spring-Boot.svg" height="25" alt="Spring Boot Framework"  />
+  <img title="Spring Boot" src="https://ujangaripin24.github.io/img/icon/Spring-Boot.svg" height="35" alt="Spring Boot Framework"  />
     <img width="5" />
-  <img title="MySQL" src="https://ujangaripin24.github.io/img/icon/My-SQL.svg" height="25" alt="MySQL"  />
+  <img title="MySQL" src="https://ujangaripin24.github.io/img/icon/My-SQL.svg" height="35" alt="MySQL"  />
   <img width="5" />
-  <img title="PostgreSQL" src="https://ujangaripin24.github.io/img/icon/PostGIS.svg" height="25" alt="PostgreSQL"  />
+  <img title="PostgreSQL" src="https://ujangaripin24.github.io/img/icon/PostGIS.svg" height="35" alt="PostgreSQL"  />
   <img width="5" />
-  <img title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/Mongodb.svg" height="25" alt="Mongo DB"  />
+  <img title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/Mongodb.svg" height="35" alt="Mongo DB"  />
   <img width="5" />
-  <img title="Redis" src="https://ujangaripin24.github.io/img/icon/REDIS.svg" height="25" alt="Redis"  />
+  <img title="Redis" src="https://ujangaripin24.github.io/img/icon/REDIS.svg" height="35" alt="Redis"  />
 </div>
 
 ##
@@ -64,11 +64,11 @@
 <div align="left">
 <h3>Mobile Framework & Hybrid App</h3>
   <img width="5" />
-  <img title="Flutter" src="https://ujangaripin24.github.io/img/icon/Flutter.svg" height="25" alt="Flutter"  />
+  <img title="Flutter" src="https://ujangaripin24.github.io/img/icon/Flutter.svg" height="35" alt="Flutter"  />
   <img width="5" />
-  <img title="React-Native" src="https://ujangaripin24.github.io/img/icon/React-Native.svg" height="25" alt="React-Native"  />
+  <img title="React-Native" src="https://ujangaripin24.github.io/img/icon/React-Native.svg" height="35" alt="React-Native"  />
   <img width="5" />
-  <img title="Ionic" src="https://ujangaripin24.github.io/img/icon/Ionic.svg" height="25" alt="Ionic"  />
+  <img title="Ionic" src="https://ujangaripin24.github.io/img/icon/Ionic.svg" height="35" alt="Ionic"  />
 </div>
 
 ##
@@ -76,15 +76,15 @@
 <div align="left">
 <h3>Cloud Web Service & CI/CD</h3>
   <img width="5" />
-  <img title="AWS" src="https://ujangaripin24.github.io/img/icon/AWS.svg" height="25" alt="AWS"  />
+  <img title="AWS" src="https://ujangaripin24.github.io/img/icon/AWS.svg" height="35" alt="AWS"  />
   <img width="5" />
-  <img title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/MINIO.svg" height="25" alt="Mongo DB"  />
+  <img title="Mongo DB" src="https://ujangaripin24.github.io/img/icon/MINIO.svg" height="35" alt="MINIO S3"  />
   <img width="5" />
-  <img title="Docker" src="https://ujangaripin24.github.io/img/icon/Docker.svg" height="25" alt="Docker"  />
+  <img title="Docker" src="https://ujangaripin24.github.io/img/icon/Docker.svg" height="35" alt="Docker"  />
   <img width="5" />
-  <img title="Github Workflows" src="https://ujangaripin24.github.io/img/icon/Github.svg" height="25" alt="Github Workflows"  />
+  <img title="Github Workflows" src="https://ujangaripin24.github.io/img/icon/Github.svg" height="35" alt="Github Workflows"  />
   <img width="5" />
-  <img title="JENKINS" src="https://ujangaripin24.github.io/img/icon/JENKINS.svg" height="25" alt="JENKINS"  />
+  <img title="JENKINS" src="https://ujangaripin24.github.io/img/icon/JENKINS.svg" height="35" alt="JENKINS"  />
 </div>
 
 ##
