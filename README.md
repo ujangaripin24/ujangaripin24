@@ -1,4 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Ujang Aripin</h1>  
+
+![](./assets/header_.png)
+
 <h3 align="center">Passionate frontend developer from Indonesia With More than Two Work Experiences</h3>    
 
 - 🌱 I’m currently learning **Rust, Python and Microservice Architecture**  
@@ -11,7 +15,6 @@
   
 - 📫 How to reach me **ujangarifin06@gmail.com**
 
-![](./assets/header_.png)
 
 ##
 
