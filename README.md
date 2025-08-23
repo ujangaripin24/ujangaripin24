@@ -9,7 +9,7 @@
   
 - 👯 I’m looking to collaborate on **Backend developer and UI/UX**  
   
-- 👨‍💻 All of my projects are available at [ujangaripin24-portofolio](ujangaripin24-portofolio.vercel.app)  
+- 👨‍💻 All of my projects are available at [](ujangaripin24-portofolio.vercel.app)
   
 - 💬 Ask me about **Vue, react, angular and all about programming**  
   
